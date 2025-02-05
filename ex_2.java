@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class ex_2 {
     public static void main(String[] args) {
+        /* Solicite números ao usuário e some-os até que o usuário digite zero.
+         */
         Scanner sc = new Scanner(System.in);
         int num;
         int soma = 0;

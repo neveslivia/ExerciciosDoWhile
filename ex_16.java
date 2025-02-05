@@ -3,6 +3,8 @@ package DoWhile;
 import java.util.Scanner;
 
 public class ex_16 {
+    /*Exiba os primeiros 10 múltiplos de um número informado pelo usuário usando do while.
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite uma palavra: ");

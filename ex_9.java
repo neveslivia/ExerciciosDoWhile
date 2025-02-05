@@ -3,6 +3,8 @@ package DoWhile;
 import java.util.Scanner;
 
 public class ex_9 {
+    /*Solicite números ao usuário e exiba apenas os positivos, parando quando for negativo.
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num;

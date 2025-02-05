@@ -1,6 +1,8 @@
 package DoWhile;
 
 public class ex_8 {
+    /*Exiba os números ímpares de 1 a 20 usando do while.
+     */
     public static void main(String[] args) {
         int num = 1;
         do {

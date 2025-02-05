@@ -3,6 +3,8 @@ package DoWhile;
 import java.util.Scanner;
 
 public class ex_12 {
+    /*Exiba uma string informada pelo usuário de trás para frente usando do while.
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite uma palavra: ");
